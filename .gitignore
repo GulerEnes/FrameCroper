@@ -1,0 +1,9 @@
+*.jpg
+*.json
+*.avi
+*.xml
+*.iml
+*.mp4
+/.idea/*
+
+
